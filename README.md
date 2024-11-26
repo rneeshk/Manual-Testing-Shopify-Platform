@@ -24,19 +24,20 @@ Here are the documents created during the project. Each document contains detail
 
 | **Document**           | **Description**                                                                 | **Link**                                                                                                                                 |
 |-------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| 📝 **Test Scenarios**   | Comprehensive list of all test scenarios for the tested functionalities.         | <a href="[https://www.shopify.com/](https://trello.com/invite/b/66fc2a83510999c101572d5f/ATTI8f1723d9b568676a8f8896c7393a27acB9A8011F/shopify-test-scenarios)" target="_blank">Test Scenarios on Trello</a>                                                                                              |
-| 🧪 **Test Cases**       | Detailed test cases to ensure complete coverage of all functionalities.          | [View Test Cases](#){:target="_blank"}                                                                                                  |
-| 🐞 **Bug Reports**      | Consolidated report of all bugs identified during the testing process.           | [View Bug Reports](#){:target="_blank"}                                                                                                 |
-| 🧠 **Mind Maps**        | Visual representation of the testing strategy and coverage.                     | [View Mind Maps](#){:target="_blank"}                                                                                                   |
-| 📑 **Test Plan**        | Overview of the testing approach, objectives, and schedule.                     | [View Test Plan](#){:target="_blank"}                                                                                                   |
-| ✅ **Test Summary**     | Summary report highlighting results and key insights from testing.               | [View Test Summary Report](#){:target="_blank"}                                                                                        |
+| 📝 **Test Scenarios**   | Comprehensive list of all test scenarios for the tested functionalities.         | <a href="https://trello.com/invite/b/66fc2a83510999c101572d5f/ATTI8f1723d9b568676a8f8896c7393a27acB9A8011F/shopify-test-scenarios" target="_blank">Test Scenarios on Trello</a>                                                                                              |
+| 🧪 **Test Cases**       | Detailed test cases to ensure complete coverage of all functionalities.          | <a href="https://docs.google.com/spreadsheets/d/1Crd5CLvZ7Dc7gdq7R23SvBBdRENyYi2FtCxCX7AdRh0/edit?usp=sharing" target="_blank">Test Case Spreadsheet</a>                                                                                                |
+| 🐞 **Bug Reports**      | Consolidated report of all bugs identified during the testing process.           | <a href="https://docs.google.com/spreadsheets/d/10NGsJiDQhhQs6TdUDnTs459PdUh3EmeYUoadL61PJfg/edit?usp=sharing" target="_blank">Bug Report Spreadsheet</a>                                                                                              |
+| 🧠 **Mind Maps**        | Visual representation of the testing strategy and coverage.                     | <a href="https://docs.google.com/document/d/167zGiLFN80CvoBPrgpC9DeqVDI0zX2M34X5f5V1loKE/edit?usp=sharing" target="_blank">Mind Map Links</a>                                                                                                   |
+| 📑 **Test Plan**        | Overview of the testing approach, objectives, and schedule.                     | <a href="https://docs.google.com/document/d/1nT3AfIM1UlUGyTXua9PnTS7UP0qpA2F-voHAtrDQ7oA/edit?usp=sharing">Test Plan Document</a>                                                                                                   |
+| ✅ **Test Summary**     | Summary report highlighting results and key insights from testing.               | <a href="https://docs.google.com/document/d/17wBlRAEgqYkcdXb2gfwgID3hCF-WVs4T6CeWwPbUCXY/edit?usp=sharing">Test Summary Report</a>                                                                                        |
 
 ---
 
 ## 🛠 Tools Used
 
-- **Excel**: For managing and documenting test cases, bug reports, and test summaries.
-- **Mind Mapping Software**: To design and visualize test strategies.
+- **Google Spreadsheet**: For managing and documenting test cases, bug reports, and test summaries.
+- **Google Docs**: To design and visualize test strategies.
+- **Trello**: To track record of test scenarios.
 
 ---
 
@@ -57,10 +58,9 @@ This project showcases the importance of manual testing in ensuring robust funct
 ## 📬 Contact
 
 For any queries or additional details, feel free to reach out:  
-📧 **Email**: [Your Email Here](mailto:your-email@example.com)
+📧 **Email**: rk1441933@gmail.com
 
 ---
 
 Thank you for exploring this repository! 🌟  
-We hope it inspires you to create better testing workflows and deliver high-quality software.
 
