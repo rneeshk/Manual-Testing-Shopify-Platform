@@ -1,8 +1,6 @@
-This repository contains the documentation and artifacts for manual testing of the Shopify website. It includes test scenarios, test cases, bug reports, test plans, mind maps, and summary reports for functionalities like Sign Up, Login, Free Trial, Navbar, Plans and Pricing, Footer, and more.
-
 # 📋 Manual Testing Project on Shopify
 
-This repository contains the documentation and deliverables created during the manual testing of the Shopify website <a href="https://www.shopify.com/" target="_blank">Shopify</a>. This project involves testing critical functionalities to ensure a seamless user experience and identifying potential issues. Detailed documentation for every stage of the testing process is provided below.
+Manual testing experiment on the Shopify e-commerce platform to evaluate functionality and user experience. <a href="https://www.shopify.com/" target="_blank">Shopify</a>. This project involves testing critical functionalities to ensure a seamless user experience and identifying potential issues. Detailed documentation for every stage of the testing process is provided below.
 
 ---
 
@@ -60,7 +58,7 @@ This project showcases the importance of manual testing in ensuring robust funct
 ## 📬 Contact
 
 For any queries or additional details, feel free to reach out:  
-📧 **Email**: rk1441933@gmail.com
+📧 **Email**: rk1441933@gmail.com <br>
 
 ---
 
